@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  font-size: large;
+  box-sizing: border-box;
+}
+
+.Header {
+  background-color: #222;
+  height: 160px;
+  padding: 20px;
+  color: white;
+  top: 0;
+  width: 100vw;
+  position: fixed;
+  vertical-align: middle;
+  display: flex;
+}
+body {
+  margin-top: 160px;
+  padding-top: 5px;
+}
