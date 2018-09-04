@@ -11,9 +11,9 @@ export default () => (
     <Section title="Employment History">
       <WorkHistory title="Existence" startDate={0} endDate={0}>
         During the summer break after finishing college I took a summer job
-        working at Existence (now Aydon Murison [09/2018]). There I began my
-        journey learning PHP and JS, and greatly improving CSS and HTML. A
-        showcase of my work is the map integration for{" "}
+        working at Existence. There I began my journey learning PHP and JS, and
+        greatly improving CSS and HTML. A showcase of my work is the map
+        integration for{" "}
         <a href="http://www.travelalconburyweald.co.uk/map">Alconbury Weald </a>
       </WorkHistory>
       <WorkHistory
